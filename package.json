@@ -1,0 +1,29 @@
+{
+  "name": "hd-transport",
+  "version": "2.0.0",
+  "description": "> Best wallet Ever",
+  "author": "ChargerWallet",
+  "homepage": "https://github.com/chargerwallet/hd-transport",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "dev": "rimraf dist && rollup -c ../../build/rollup.config.js -w",
+    "build": "rimraf dist && rollup -c ../../build/rollup.config.js",
+    "test": "jest",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "update:protobuf": "./scripts/protobuf-build.sh"
+  },
+  "devDependencies": {
+    "@types/bytebuffer": "^5.0.42"
+  },
+  "dependencies": {
+    "bytebuffer": "^5.0.1",
+    "long": "^4.0.0",
+    "protobufjs": "^6.11.2"
+  }
+}

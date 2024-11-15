@@ -1,0 +1,1 @@
+{"version":3,"file":"messages.d.ts","sourceRoot":"","sources":["../../../src/serialization/protobuf/messages.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,QAAQ,MAAM,kBAAkB,CAAC;AAE7C,wBAAgB,cAAc,CAAC,IAAI,EAAE,QAAQ,CAAC,UAAU,iBAMvD;AAED,eAAO,MAAM,qBAAqB,aAAc,SAAS,IAAI,QAAQ,MAAM;;;CAa1E,CAAC;AAEF,eAAO,MAAM,qBAAqB,aAAc,SAAS,IAAI,UAAU,MAAM;;;CAW5E,CAAC"}

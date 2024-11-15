@@ -1,0 +1,1 @@
+{"version":3,"file":"encode.d.ts","sourceRoot":"","sources":["../../../src/serialization/protobuf/encode.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,kBAAkB,CAAC;AAExC,OAAO,UAAU,MAAM,YAAY,CAAC;AAqBpC,wBAAgB,KAAK,CAAC,OAAO,EAAE,IAAI,EAAE,OAAO,EAAE,GAAG,OA4ChD;AAED,eAAO,MAAM,MAAM,YAAa,IAAI,QAAQ,OAAO,MAAM,EAAE,OAAO,CAAC,eASlE,CAAC"}
