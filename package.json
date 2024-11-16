@@ -1,10 +1,10 @@
 {
-  "name": "hd-transport",
+  "name": "@chargerwallet/hd-transport",
   "version": "2.0.0",
-  "description": "> Best wallet Ever",
+  "description": "> HD Transport",
   "author": "ChargerWallet",
   "homepage": "https://github.com/chargerwallet/hd-transport",
-  "license": "ISC",
+  "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "publishConfig": {
